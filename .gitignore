@@ -4,7 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-
+# package lock file
+# package-lock.json  <-- Commented out or removed to track changes
 # testing
 /coverage
 
